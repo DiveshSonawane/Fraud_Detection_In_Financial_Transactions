@@ -47,6 +47,7 @@ cd FraudDetectionApp
 ---
 
 ## Author
+
 Divesh Sonawane
 Email: diveshsonawane66@gmail.com  
 Internship Project – Fraud Detection in Financial Transactions
