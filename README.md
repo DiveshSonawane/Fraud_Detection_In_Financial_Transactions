@@ -41,8 +41,10 @@ The dataset used is the **Credit Card Fraud Detection Dataset** from Kaggle:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/FraudDetectionApp.git
+git clone https://github.com/DiveshSonawane/Fraud_Detection_In_Financial_Transactions.git
 cd FraudDetectionApp
+
+---
 
 ## Author
 Divesh Sonawane
