@@ -32,6 +32,7 @@ The dataset used is the **Credit Card Fraud Detection Dataset** from Kaggle:
 | `fraud_detection_pipeline.pkl` | Pre-trained pipeline containing scaler + XGBoost model. |
 | `xgboost_fraud_model.pkl` | Optional saved XGBoost model separately (if needed). |
 | `README.md` | Project description, instructions, and usage. |
+| `Fraud_Detection_Financial_Transaction_Report` | Detailed Project Report. |
 
 ---
 
@@ -44,6 +45,6 @@ git clone https://github.com/yourusername/FraudDetectionApp.git
 cd FraudDetectionApp
 
 ## Author
-**Divesh Sonawane**  
+Divesh Sonawane
 Email: diveshsonawane66@gmail.com  
 Internship Project – Fraud Detection in Financial Transactions
