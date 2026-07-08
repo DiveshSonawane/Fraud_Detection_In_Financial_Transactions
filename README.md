@@ -35,15 +35,6 @@ The dataset used is the **Credit Card Fraud Detection Dataset** from Kaggle:
 | `Fraud_Detection_Financial_Transaction_Report` | Detailed Project Report. |
 
 ---
-
-## Installation and Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/DiveshSonawane/Fraud_Detection_In_Financial_Transactions.git
-cd FraudDetectionApp
-
 ---
 
 ## Author
